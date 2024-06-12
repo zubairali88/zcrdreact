@@ -1,0 +1,28 @@
+.backu{
+    width: 100%;
+      min-height: 100vh;
+      background:  url('../../assets/HERO2.png');
+      height: 700px;
+      background-size: cover;
+      background-position: center;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      top: -100px;
+  }
+  .boxu img{
+    width: 500px;
+    height: 450px;
+    position: relative;
+    top: -50px;
+    left: 700px;
+    border-radius: 10px;
+  }
+  .texta h3{
+  position: relative;
+  left: -600px;
+  top: -50px;
+  margin: 150px;
+  }
